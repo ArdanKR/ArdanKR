@@ -8,7 +8,7 @@
   <img src="https://badges.aleen42.com/src/javascript.svg">
 </p>
 
-I am SangHyuk Park, (a.k.a ArdanKR), who is living in  South Korea. I have been interested in programming since my first year of middle school, and I still have a lot of passion for programming. Although I don't have an open source project I've created, various teams are responsible for front-end and back-end programming.
+I am SangHyuk Park, (a.k.a ArdanKR), who is living in Republic of Korea *(S. Korea)*. I have been interested in programming since my first year of middle school, and I still have a lot of passion for programming. Although I don't have open source projects I've made, various teams are responsible for front-end and back-end programming.
 
 <p align="center">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=ardankr&show_icons=true&hide_border=true&count_private=true&theme=dark" height="160px" />
@@ -16,7 +16,7 @@ I am SangHyuk Park, (a.k.a ArdanKR), who is living in  South Korea. I have been 
 </p>
 
 > 📄 **About Me**
-- 🔭 I am currently working on a team called [@HKDev_Korea](https://github.com/hk4dev) *(a.k.a HK For Developers Korea, 2020 - Now)*.
+- 🔭 I'm currently working on a team called [@HKDev_Korea](https://github.com/hk4dev) *(a.k.a HK For Developers Korea, 2020 - Now)*.
   - @itech *(2020 - 2020)*
   - @Deplux *[Paused] (2021 - ???)*
 - 🗂️ Technique Stack(s): JavaScript(Node.js) / C++, C# *(Non-professional field, Currently learning)* / Python *(Non-professional field)*
