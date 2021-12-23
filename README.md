@@ -1,5 +1,5 @@
 <h1 align="right">ArdanKR</h1>
-<blockquote align="right"><strong>A Middle School Student Developer.</strong></blockquote>
+<blockquote align="right"><strong>A Middle School Student Developer. ┃ Full Stack Developer</strong></blockquote>
 <p align="left">
   <img src="https://badges.aleen42.com/src/node.svg">
   <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
@@ -20,6 +20,8 @@ I am SangHyuk Park, (a.k.a ArdanKR), who is living in  South Korea. I have been 
   - @itech *(2020 - 2020)*
   - @Deplux *[Paused] (2021 - ???)*
 - 🗂️ Technique Stack(s): JavaScript(Node.js) / C++, C# *(Non-professional field, Currently learning)* / Python *(Non-professional field)*
+- ⚒️ Working Project (Public): 
+  - [MarioMaker2OCR_MultiLang_Version](https://github.com/ArdanKR/MarioMaker2OCR) *(Forked from [dram55/MarioMaker2OCR](https://github.com/dram55/MarioMaker2OCR))*
 - ⚰️ Discontinued personal project: ModHelper *(Discord Modding Helper)*, SMM2Bookmark *(Discord and Web service, about Super Mario Maker 2 Game)*, etc. 
 - 📬 Email: [contact@ardan.kr](mailto:contact@ardan.kr). *[Emergency Mail: [ardankr2019@naver.com](mailto:ardankr2019@naver.com)]* *(I will reply in 3 days.)*
 
