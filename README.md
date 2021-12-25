@@ -1,5 +1,5 @@
 <h1 align="right">ArdanKR</h1>
-<blockquote align="right"><strong>A Middle School Student Developer. ┃ Full Stack Developer</strong></blockquote>
+<blockquote align="center"><strong>A Middle School Student Developer. ┃ Full Stack Developer</strong></blockquote>
 <p align="left">
   <img src="https://badges.aleen42.com/src/node.svg">
   <img src="https://badges.aleen42.com/src/visual_studio_code.svg">
