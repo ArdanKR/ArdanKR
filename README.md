@@ -18,7 +18,7 @@ I am SangHyuk Park, (a.k.a ArdanKR), who is living in Republic of Korea *(S. Kor
 > 📄 **About Me**
 - 🔭 I'm currently working on a team called [@HKDev_Korea](https://github.com/hk4dev) *(a.k.a HK For Developers Korea, 2020 - Now)*.
   - [@sourcepediakr](https://github.com/sourcepediakr) *(2021 - Now)*
-  - @itech [ *(2020 - 2020)*
+  - @itech [RIP] *(2020 - 2020)*
   - @Deplux *[Paused] (2021 - ???)*
 - 🗂️ Technique Stack(s): JavaScript(Node.js) / C++, C# *(Non-professional field, Currently learning)* / Python *(Non-professional field)* / React.js *(Currently learning)*
 - ⚒️ Working Project (Public): 
