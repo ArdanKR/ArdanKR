@@ -1,1 +1,1 @@
-<h2 align="center">Student Developer.</h2>
+<h2 align="center">A high school student developer.</h2>
